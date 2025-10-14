@@ -7,5 +7,10 @@ CellPhone
 Book
 <img width="907" height="347" alt="image" src="https://github.com/user-attachments/assets/33e19c21-9b43-4752-9c60-964160770afb" />
 Rectangle
-![Uploading image.png…]()
+<img width="775" height="277" alt="Screenshot 2025-10-14 171312" src="https://github.com/user-attachments/assets/2233463e-7303-4daa-af31-51073908fb7f" />
+CylinderConstructor
+<img width="725" height="207" alt="image" src="https://github.com/user-attachments/assets/449c6854-01cf-4965-8459-0dfa41ca06cd" />
+CylinderCalc 
+<img width="658" height="252" alt="image" src="https://github.com/user-attachments/assets/17dac30e-ecbd-4c65-8bc0-54b5ffda872f" />
+
 
