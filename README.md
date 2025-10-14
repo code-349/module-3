@@ -16,6 +16,10 @@ CylinderCalc
  <img width="720" height="280" alt="image" src="https://github.com/user-attachments/assets/37127126-449f-4f7b-9cba-af65a02ca40e" />
 Bank
 <img width="844" height="236" alt="image" src="https://github.com/user-attachments/assets/36e6b0eb-2626-486a-b822-a96971557dea" />
+AreaCalculator
+<img width="681" height="221" alt="image" src="https://github.com/user-attachments/assets/4347cf8c-2540-461f-b5bf-368f3c3eeea4" />
+ Student
+ <img width="678" height="286" alt="image" src="https://github.com/user-attachments/assets/dda54971-35cd-47cc-a4e3-5174e10aab28" />
 
 
 
