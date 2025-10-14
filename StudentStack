@@ -4,20 +4,15 @@ public class StudentStack {
     public static void main(String[] args) {
         Stack<String> stack = new Stack<>();
 
-        // Push 5 student names
+      
         stack.push("Rahul");
         stack.push("Priya");
         stack.push("Kiran");
         stack.push("Sneha");
         stack.push("Amit");
-
         System.out.println("Initial Stack: " + stack);
-
-        // Pop one name
         String removed = stack.pop();
         System.out.println("Popped name: " + removed);
-
-        // Display remaining stack
         System.out.println("Remaining Stack: " + stack);
     }
 }
