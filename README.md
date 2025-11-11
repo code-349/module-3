@@ -24,6 +24,9 @@ IntegerStack
 <img width="663" height="246" alt="image" src="https://github.com/user-attachments/assets/257b327c-eb93-4a58-aac5-cc2208030f85" />
 StudentStack
 <img width="771" height="369" alt="image" src="https://github.com/user-attachments/assets/777594ba-a017-4cf1-92a7-642e528c05a0" />
+stack 
+<img width="830" height="295" alt="image" src="https://github.com/user-attachments/assets/bca77f5a-bc68-4bd9-b025-10701227fff8" />
+
 
 
 
